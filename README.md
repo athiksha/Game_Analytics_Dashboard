@@ -76,9 +76,6 @@ Referral_Source, Preferred_Game_Mode, Rank_Tier, Achievement_Score
 **🔄 Usage**
 
 Download .pbix file
-
 Open in Power BI Desktop
-
 Interact with filters and visualizations
-
 Export or publish as needed
